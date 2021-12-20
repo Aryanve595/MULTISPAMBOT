@@ -40,7 +40,7 @@ i) {hn}packspam (replying to any sticker)
 Syntax:
 i) {hn}hang <counter> (you can reply any message if you want bot to reply that message and do spamming)
 
-**©️ @TeamVampires**
+**©️ @Attitude_Network**
 """
 curse_menu = f"""
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
@@ -75,7 +75,7 @@ i) {hn}dreplycurse <replying to anyone>
 ii) {hn}dreplycurse <username>
 
 
-**©️ @TeamVampires**
+**©️ @Attitude_Network**
 """
 sudo_menu = f"""
 **ıllıllı★ 𝙷𝚎𝚕𝚙 𝙼𝚎𝚗𝚞 ★ıllıllı**
@@ -86,7 +86,7 @@ sudo_menu = f"""
 **{hn}alive**: Check if bot is alive.
 
 
-**©️ @TeamVampires**
+**©️ @Attitude_Network**
 """
 
 dev_menu = f"""
@@ -103,7 +103,7 @@ ii) {hn}leave
 
 **{hn}reboot**: Restarts the bot!(Too fast! **Supersonic**)
 
-**©️ @TeamVampires**
+**©️ @Attitude_Network**
 """
 
 
@@ -134,7 +134,7 @@ i) {hn}join <Private chat's hash>
 Note: If all you have is a link like this one: https://t.me/joinchat/AAAAAFFszQPyPEZ7wgxLtd, The part after the https://t.me/joinchat/, this is, AAAAAFFszQPyPEZ7wgxLtd on this example, is the hash of the chat or channel.
 
 
-**©️ @TeamVampires**
+**©️ @Attitude_Network**
 """
 
 
@@ -158,31 +158,27 @@ help_menu = f"""
 **Example**: ```{hn}help spamcmds```
 
 
-**©️ @TeamVampires**
+**©️ @Attitude_Network**
 """
 
 alive_temxt = f"""
 {ALIVE_MESSAGE}
 
 
-╔═════════════════╗
+╔═══🔥═════════🔥═════╗
 ║
 ╠═Bᴏᴛ Vᴇʀsɪᴏɴ ➪ 0.0.1
 ║
-╠═Cʜᴀɴɴᴇʟ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/THE_VAMPIRE_NETWORK)
+╠═Cʜᴀɴɴᴇʟ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Attitude_Network)
 ║
-╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/VAMPlRE_Support)
+╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/+WawzaSG7y-BjMjQ1)
 ║
-╠═Rᴇᴘᴏsɪᴛᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://github.com/TeamBlackStorm/MULTISPAMBOT)
-║
-╠═ᴄʀᴇᴀᴛᴏʀ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/VAMPIRE_OWNER) 
-║
-╚═════════════════╝
+╚════🔥═════════🔥════╝
 
-**[©️]({ALIVE_MEDIA}) @TeamVampires**
+**[©️]({ALIVE_MEDIA}) @Attitude_Network**
 """
 
-glad_logo = "https://te.legra.ph/file/f756f7cd925cb729d268b.jpg"
+glad_logo = "https://telegra.ph/file/4c1504bdd469996619709.jpg"
 
 
 start_caption = f"""
@@ -191,11 +187,11 @@ I ᴀᴍ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟʟ sᴘᴀᴍ-ʙᴏᴛ ᴇᴠᴇʀ ᴍ�
 I'ᴍ ʜᴇʀᴇ ᴛᴏ ᴅᴇsᴛʀᴏʏ ʏᴏᴜʀ ᴏᴘᴘᴏɴᴇɴᴛ 🔥🔥🔥
 I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏᴅ-ᴡᴀɪᴛ ᴇʀʀᴏʀ ᴀɴᴅ ᴡɪᴛʜ ᴍᴏʀᴇ ᴀᴄᴄᴜʀᴀᴄʏ!**
 
-**█▓▒­░⡷⠂𝗠𝗔𝗦𝗧𝗘𝗥⠂⢾░▒▓█**
+**🔥▓▒­░⡷⠂𝗠𝗔𝗦𝗧𝗘𝗥⠂⢾░▒▓🔥**
 **『 [{OWNER_NAME}](tg://user?id={OWNER_ID}) 』**
 
 
-**[©️](https://te.legra.ph/file/f756f7cd925cb729d268b.jpg) @TeamVampires**
+**[©️](https://telegra.ph/file/4c1504bdd469996619709.jpg) @Attitude_Network**
 """
 
 
@@ -206,22 +202,18 @@ I ᴀᴍ ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟʟ sᴘᴀᴍ-ʙᴏᴛ ᴇᴠᴇʀ ᴍ�
 I'ᴍ ʜᴇʀᴇ ᴛᴏ ᴅᴇsᴛʀᴏʏ ʏᴏᴜʀ ᴏᴘᴘᴏɴᴇɴᴛ 🔥🔥🔥
 I ᴄᴀɴ sᴘᴀᴍ ᴄᴏɴᴛɪɴᴜᴏsʟʏ ᴡɪᴛʜ ʟᴇss ғʟᴏᴏᴅ-ᴡᴀɪᴛ ᴇʀʀᴏʀ ᴀɴᴅ ᴡɪᴛʜ ᴍᴏʀᴇ ᴀᴄᴄᴜʀᴀᴄʏ!**
 
-**█▓▒­░⡷⠂𝗠𝗔𝗦𝗧𝗘𝗥⠂⢾░▒▓█**
-**『 [{OWNER_NAME}](tg://user?id={OWNER_ID}) 』**
+**🔥▓▒­░⡷⠂𝗠𝗔𝗦𝗧𝗘𝗥⠂⢾░▒▓🔥**
+**『 [{OWNER_NAME}](tg://user?id={OWNER_ID}) 
 
-╔═════════════════╗
+╔═══🔥═════════🔥═════╗
 ║
 ╠═Bᴏᴛ Vᴇʀsɪᴏɴ ➪ 0.0.1
 ║
-╠═Cʜᴀɴɴᴇʟ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/THE_VAMPIRE_NETWORK) 
+╠═Cʜᴀɴɴᴇʟ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/Attitude_Network)
 ║
-╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/VAMPlRE_SUPPORT) 
+╠═Sᴜᴘᴘᴏʀᴛ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/+WawzaSG7y-BjMjQ1)
 ║
-╠═Rᴇᴘᴏsɪᴛ➪ᴏʀʏ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://github.com/TeamBlackStorm/MULTISPAMBOT) 
-║
-╠═ᴄʀᴇᴀᴛᴏʀ ➪ [»Rᴇᴅɪʀᴇᴄᴛ«](https://t.me/VAMPIRE_OWNER) 
-║
-╚═════════════════╝
+╚════🔥═════════🔥════╝
 
-**[©️](https://te.legra.ph/file/f756f7cd925cb729d268b.jpg) @TeamVampires**
+**[©️](https://telegra.ph/file/4c1504bdd469996619709.jpg) @Attitude_Network**
 """
