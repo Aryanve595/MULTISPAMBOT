@@ -24,16 +24,12 @@ from dossier import HNDLR as hn
 from worker.verses import replies, curses
 from helpmenu import spam_menu, curse_menu, sudo_menu, dev_menu, acc_menu, help_menu, alive_temxt, glad_logo, start_caption, start_caption1, devusage, sudousage, spamusage, accusage
 
-glad_logo = "https://telegra.ph/file/ec3c057fcba5594151601.jpg"
+glad_logo = "https://telegra.ph/file/4c1504bdd469996619709.jpg"
 
 buttons = [
     [
-        (Button.url("Cʜᴀɴɴᴇʟ", url="https://t.me/Gladiators_Projects")),
-        (Button.url("Sᴜᴘᴘᴏʀᴛ", url="https://t.me/Gladiators_Support"))
-    ],
-    [
-        (Button.url("Rᴇᴘᴏ", url="https://github.com/Gladiators-Projects/spammerbots")),
-        (Button.url("Tᴜᴛᴏʀɪᴀʟ", url="https://t.me/Gladiators_Projects/36"))
+        (Button.url("Cʜᴀɴɴᴇʟ", url="https://t.me/Attitude_Network")),
+        (Button.url("Sᴜᴘᴘᴏʀᴛ", url="https://t.me/+WawzaSG7y-BjMjQ1"))
     ]
 ]
 
