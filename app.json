@@ -1,7 +1,7 @@
 {
-      "name": "ᴠᴀᴍᴘɪʀᴇ sᴘᴀᴍʙᴏᴛ",
+      "name": "sᴘᴀᴍʙᴏᴛ",
       "description": "⚡TELEGRAM FASTEST SPAMBOT⚡",
-      "logo": "https://te.legra.ph/file/f756f7cd925cb729d268b.jpg",
+      "logo": "https://telegra.ph/file/4c1504bdd469996619709.jpg",
       "keywords": [
          "telegram",
          "Spam-Bot",
@@ -9,7 +9,7 @@
          "Telethon",
          "VAMPIRES"
       ],   
-   "repository": "https://t.me/VAMPlRE_SUPPORT",
+   "repository": "https://t.me/OAN_SUPPORT",
    "addons": [
       {
          "options": {
@@ -36,7 +36,7 @@
       },
       "OWNER_NAME": {
          "description": "Owners name to be displayed in alive command.",
-         "value": "@VAMPIRE_OWNER",
+         "value": "@Heartlessaryan_op",
          "required": true
       },
       "OWNER_ID": {
@@ -57,12 +57,12 @@
       "SUDO_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Vampire support then keep the current ID's here at they are and add yours.",
          "required": true,
-         "value": "2120975565"
+         "value": ""
       },
       "DEV_USERS": {
          "description": "ID of users who are Devs of your bot (can use /py etc.). If you are a noob and would come and bother Vampire support then keep the current ID's here at they are and add yours.",
          "required": true,
-         "value": "2120975565"
+         "value": ""
       },
       "ENV": {
          "description": "Setting this to ANYTHING will enable environment variables. Leave it as it is",
@@ -75,7 +75,7 @@
       },
       "ALIVE_MEDIA": {
          "description": "Telegraph link of pic/gif/video to be displayed in alive command.",
-         "value": "https://te.legra.ph/file/f756f7cd925cb729d268b.jpg",
+         "value": "https://telegra.ph/file/4c1504bdd469996619709.jpg",
          "required": true
       },
       "String_Session01": {
